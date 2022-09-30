@@ -1,6 +1,6 @@
 # Projeto 
 
-![preview](./.github/preview.jpg)
+![preview](./preview.jpg)
 
 > Trilha explorer
 Primeiro projeto construído no curso Explorer da Rocketseat.
